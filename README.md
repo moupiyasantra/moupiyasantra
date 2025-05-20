@@ -1,4 +1,4 @@
-## Tech-a-break ![image](https://github.com/user-attachments/assets/d9997221-f441-4190-a5d5-88cf4d619986)
+## Take(Tech)-a-break ![image](https://github.com/user-attachments/assets/d9997221-f441-4190-a5d5-88cf4d619986)
 
 Hello everyone 👋 Moupiya this side . I hope you can take (tech) a break from your life and enjoy viewing my Github profile. 
 
@@ -22,5 +22,5 @@ __Grade ![book (1)](https://github.com/user-attachments/assets/670f8649-db3d-446
 3. 12th : 93.5% (2021)
 
 __About me :__ 
-Previously been a part of various anthologies and contributed write-ups as a co-author for those. Currently a tech student chasing after dreams.
+Previously been a part of various anthologies and contributed write-ups as a co-author. Currently a tech student chasing after dreams.
 
