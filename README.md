@@ -13,7 +13,7 @@ __Awards🏆:__
 
 __Special mentions🏅:__
 1. Intra college hackathons (top teams) 
-2. Selected for Promoting Innovations in Individuals, Startups And MSMEs (PRISM)
+2. Project selected for Promoting Innovations in Individuals, Startups And MSMEs (PRISM) 
 3. Winner of writing competitions (Inter-School/Regional)
 
 __Grade ![book (1)](https://github.com/user-attachments/assets/670f8649-db3d-446d-9e8c-d9da370c4134):__ 
