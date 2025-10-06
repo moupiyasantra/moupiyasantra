@@ -22,5 +22,4 @@ __Grade ![book (1)](https://github.com/user-attachments/assets/670f8649-db3d-446
 3. 12th : 93.5% (2021)
 
 __About me :__ 
-Previously been a part of various anthologies and contributed write-ups as a co-author. Currently a tech student chasing after dreams.
-
+Previously been a part of various anthologies and contributed in writing resources as a co-author. Presently, a tech graduate.
