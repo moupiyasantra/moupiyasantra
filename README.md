@@ -17,7 +17,7 @@ __Special mentions🏅:__
 3. Winner of writing competitions (Inter-School/Regional)
 
 __Grade ![book (1)](https://github.com/user-attachments/assets/670f8649-db3d-446d-9e8c-d9da370c4134):__ 
-1. Bachelor's degree (B.Tech CSE AI/ML) : 8.30 CGPA
+1. Bachelor's degree (B.Tech CSE AI/ML) : 8.33 CGPA
 2. 10th : 92.2% (2019)
 3. 12th : 93.5% (2021)
 
